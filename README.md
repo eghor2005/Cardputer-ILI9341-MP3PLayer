@@ -4,7 +4,7 @@ A feature-rich MP3/WAV player for M5Cardputer with a retro Winamp-style interfac
 
 ## Overview
 
-Transform your M5Cardputer into a portable audio player with full hardware keyboard controls, graphical interface, and automatic support for both Standard and Advanced hardware variants.
+Transform your M5Cardputer into a portable audio player with full hardware keyboard controls, graphical interface, and external ILI9341 display.
 
 
 ## The Final Device
