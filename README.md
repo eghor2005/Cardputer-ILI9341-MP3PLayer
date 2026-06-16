@@ -1,5 +1,5 @@
 # Cardputer-ILI9341-MP3PLayer
-
+A feature-rich MP3/WAV player for M5Cardputer with a retro Winamp-style interface.
 
 # Wiring: Cardputer-Adv EXT Connector → ILI9341
 
