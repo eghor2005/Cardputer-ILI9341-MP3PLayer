@@ -9,8 +9,7 @@ Transform your M5Cardputer into a portable audio player with full hardware keybo
 
 ## The Final Device
 
-![M5Cardputer Audio Player](images/1.jpg)
-
+![M5Cardputer Audio Player](images/1.JPG)
 ## Features
 
 - 🎵 **Audio Playback**: MP3 and WAV files from microSD card
